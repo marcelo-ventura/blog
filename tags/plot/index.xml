@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plot on Venturanalytics</title>
+    <link>/tags/plot/</link>
+    <description>Recent content in Plot on Venturanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Aug 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Venturanalytics</title>
+      <link>/2018/08/28/venturanalytics/</link>
+      <pubDate>Tue, 28 Aug 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/2018/08/28/venturanalytics/</guid>
+      <description>Presentation This is an R Markdown document. And also the first post about Venturanalytics.
+The Venturanalytics blog will contains any news and updates about this github account.
+For more details about the creator of this blog see https://marcelo-ventura.github.io/aboutme/mypage.html.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
