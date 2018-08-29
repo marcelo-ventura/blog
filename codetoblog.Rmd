@@ -1,0 +1,18 @@
+---
+title: "Blogpost"
+author: "Marcelo Ventura"
+date: "28/08/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#install.packages("blogdown")
+library(blogdown)
+blogdown::install_hugo()
+#creating site
+#blogdown::new_site("~/OneDrive/github/blog")
+setwd("~/OneDrive/github/blog")
+#blogdown::new_post(title = "Crypto studies. Why?", ext = '.Rmd')
+blogdown::serve_site()
+```

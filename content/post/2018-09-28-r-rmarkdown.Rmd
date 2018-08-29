@@ -1,0 +1,20 @@
+---
+title: "Venturanalytics"
+author: "Marcelo"
+date: 2018-08-28T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Presentation
+
+This is an R Markdown document. And also the first post about Venturanalytics. 
+
+The Venturanalytics blog will contains any news and updates about [this](https://marcelo-ventura.github.io/aboutme/mypage.html) github account.
+
+For more details about the creator of this blog see <https://marcelo-ventura.github.io/aboutme/mypage.html>.
+

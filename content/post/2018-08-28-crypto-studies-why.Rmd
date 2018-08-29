@@ -1,0 +1,41 @@
+---
+title: "Crypto studies. Why?"
+author: "Marcelo Ventura"
+date: 2018-08-28T21:18:13-05:00
+slug: crypto-studies-why
+categories: ["R"]
+tags: ["Crypto", "Bitcoin", "Analytics"]
+---
+
+
+#Beginning
+
+As a crypto investor and enthusiast, I'd be unhappy to not study and analyze its market.
+
+After finishing this [work](https://repositorio.bc.ufg.br/tede/handle/tede/8278), I was very tired and wanted to do a quick project which could make me happy. So I called a friend in Rio and invited him to make a project submission to the annual excellent event [SER](https://ser2018.weebly.com) (International Seminar of Statistics with R) which is hosted and created by UFF (Universidade Federal Fluminense).
+
+He replied me and we talked about mutual interests among cryptos, and we've decided to work on a Poster submission about Crypto modeling.
+
+Despite all limitations (including page limits) and the [distance](https://www.google.com.br/maps/dir/Bras%C3%ADlia,+DF/Rio+de+Janeiro,+RJ/@-19.5881066,-47.9336868,7z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x935a3d18df9ae275:0x738470e469754a24!2m2!1d-47.8821658!2d-15.7942287!1m5!1m1!1s0x9bde559108a05b:0x50dc426c672fd24e!2m2!1d-43.1728965!2d-22.9068467!3e3) between Rio and Brasília we finished everything in 5 days.
+
+#Everything
+
+"Everything" was possible only because of [coinmarketcap](https://coinmarketcap.com) excellent website. This is a really interesting way to find crypto data.
+
+Back to our idea...we focused on main two subtopics: data mining and crypto modeling. We've found a nice approach given by this [Python](https://dashee87.github.io/deep%20learning/python/predicting-cryptocurrency-prices-with-deep-learning/) solution.
+
+The objective was to create a framework where 5 cryptocoins were modeled, and its regressions were compared. How?
+
+#Method
+
+Our regression model was based on the Generalized Hyperbolic distribution, see [this](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjAnP2u_ZDdAhXLhJAKHUKUAk0QFjAAegQICBAC&url=http%3A%2F%2Fwww.mdpi.com%2F1911-8074%2F10%2F2%2F12%2Fpdf&usg=AOvVaw1R1v2AKZpYL0fx60qlhZix).
+
+#Results
+
+
+
+
+#Conclusions
+
+
+#One more thing...

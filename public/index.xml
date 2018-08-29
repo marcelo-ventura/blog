@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Venturanalytics</title>
+    <link>/</link>
+    <description>Recent content on Venturanalytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Aug 2018 21:18:13 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crypto studies. Why?</title>
+      <link>/2018/08/28/crypto-studies-why/</link>
+      <pubDate>Tue, 28 Aug 2018 21:18:13 -0500</pubDate>
+      
+      <guid>/2018/08/28/crypto-studies-why/</guid>
+      <description>Beginning As a crypto investor and enthusiast, I’d be unhappy to not study and analyze its market.
+After finishing this work, I was very tired and wanted to do a quick project which could make me happy. So I called a friend in Rio and invited him to make a project submission to the annual excellent event SER (International Seminar of Statistics with R) which is hosted and created by UFF (Universidade Federal Fluminense).</description>
+    </item>
+    
+    <item>
+      <title>Venturanalytics</title>
+      <link>/2018/08/28/venturanalytics/</link>
+      <pubDate>Tue, 28 Aug 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/2018/08/28/venturanalytics/</guid>
+      <description>Presentation This is an R Markdown document. And also the first post about Venturanalytics.
+The Venturanalytics blog will contains any news and updates about this github account.
+For more details about the creator of this blog see https://marcelo-ventura.github.io/aboutme/mypage.html.
+ </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+  </channel>
+</rss>
